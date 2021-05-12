@@ -31,3 +31,11 @@
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
     Suspendisse id sem consectetuer libero luctus adipiscing.
 
+*   A list item with a code block:
+
+        <code goes here>
+        
+   *   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
