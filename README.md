@@ -42,19 +42,9 @@ se pueda comunicar un mensaje secreto entre emisores y receptores, aplicando el 
 > Finalmente, podemos salir del programa ingresando 4.
 
 
+*   El archivo cuenta con varios métodos, que aplican por ejemplo la criba 
+    de Eratóstenes para manejar primos, y en la implementación del RSA podemos
+    hacer uso de los primos conseguidos de manera aleatoria.
+*   El programa usa como método de encriptación de "string" a "int" la conversión
+    por medio de los valores ASCII.
 
-
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-    viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-    Suspendisse id sem consectetuer libero luctus adipiscing.
-
-*   A list item with a code block:
-
-        <code goes here>
-        
-   *   A list item with a blockquote:
-
-    > This is a blockquote
-    > inside a list item.
