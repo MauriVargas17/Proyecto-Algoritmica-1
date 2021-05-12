@@ -5,7 +5,7 @@
 //  Created by Mauricio Vargas on 5/11/21.
 //
 
-#include "EncriptadorDeLocacion.hpp"
+
 #include <iostream>
 #include <sstream>
 #include <math.h>
