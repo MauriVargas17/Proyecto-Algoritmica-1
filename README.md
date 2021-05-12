@@ -1,12 +1,18 @@
 # Proyecto-Algoritmica-1
 ## Pasos para el uso del archivo .cpp
 
+> El archivo se ejecuta únicamente en consola.
+>
+> > Debemos abrir el archivo en un entorno de desarrollo integrado (IDE)
+>
+> La interacción en consola implica el ingreso y salida de datos.
+> 
 
 ###### This is an H6
-###### This is an H6 #######
+###### El archivo se ejecuta en consola #######
 
 
-> ## This is a header.
+> ## Abrir el archivo en un entorno de desarrollo integrado (IDE)
 > 
 > 1.   This is the first list item.
 > 2.   This is the second list item.
@@ -17,12 +23,6 @@
 >     
 
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
-> 
 
 
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
