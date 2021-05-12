@@ -1,5 +1,5 @@
 # Proyecto-Algoritmica-1
-## Pasos para el uso del archivo .cpp
+## Archivo EncriptadorDeLocacion.cpp
 
 > El archivo se ejecuta únicamente en consola.
 >
@@ -8,19 +8,22 @@
 > La interacción en consola implica el ingreso y salida de datos.
 > 
 
-###### This is an H6
-###### El archivo se ejecuta en consola #######
+###### Una vez abierto, pasamos a ver los pasos de ejecución #######
 
-
-> ## Abrir el archivo en un entorno de desarrollo integrado (IDE)
+> ## Ejecución
 > 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
+> El archivo lanzará un menú con 4 opciones:
+> 1.   Encriptar una locación
+> 2.   Desencriptar una locación
+> 3.   Mostrar la lista de locaciones
+> 4.   Terminar el programa
 > 
-> Here's some example code:
+> Para selecionar una opción solo se debe ingresar el número correspondiente en la consola.
+> Escoger la primera opción nos pedirá ingresar una serie de valores, como ser:
 > 
->     return shell_exec("echo $input | $markdown_script");
->     
+>     "Ingrese a continuación dos números a elección no mayores a 2^32"
+> A lo que se debe responder ingresando valores enteros; también nos pedirá el nombre del país que queremos encriptar. 
+> Para saber los países disponibles, podemos ingresar a la opción número 3. 
 
 
 
