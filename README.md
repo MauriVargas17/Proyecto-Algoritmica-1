@@ -23,7 +23,9 @@
 > 
 >     "Ingrese a continuación dos números a elección no mayores a 2^32"
 > A lo que se debe responder ingresando valores enteros; también nos pedirá el nombre del país que queremos encriptar. 
-> Para saber los países disponibles, podemos ingresar a la opción número 3. 
+> Para saber los países disponibles, podemos ingresar a la opción número 3 y desplegar el arreglo de locaciones.
+> 
+>       Argentina Bolivia Chile Dinamarca Ecuador Francia Guyana Holanda Islandia Jerusalem Kyoto Libano Marruecos Nigeria Oslo Perú Quito Rumania >       Serbia Taiwán Uganda Venezuela Washington Xian Yakarta Zambia  
 
 
 
