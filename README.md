@@ -29,17 +29,17 @@ se pueda comunicar un mensaje secreto entre emisores y receptores, aplicando el 
  Para saber los países disponibles, podemos ingresar a la opción número 3 y desplegar el arreglo de locaciones:
  
        Argentina Bolivia Chile Dinamarca Ecuador Francia Guyana Holanda Islandia Jerusalem Kyoto Libano...
-> Al concluir de ingresar los datos solicitados para encriptar una locación, el programa devolverá las llaves públicas, llaves privadas
-> y el mensaje original junto al mensaje encriptado.
-> 
-> Haciendo uso de las llaves creadas y el mensaje encriptado, podemos usar la segunda opción del menú para hacer el proceso inverso, donde
-> nos pedirá las llaves privadas y el mensaje secreto. En algunos casos el mensaje es muy grande, por lo cual será expresado en notación 
-> científica (si no es el caso, el siguiente detalle no es importante).
-> 
->   + Si el mensaje encriptado está en notación científica, ingresaremos primero el valor numérico del mensaje sin el exponencial.
->   + A continuación, el programa nos dará la opción de ingresar el exponencial. Si no aplica, 0 es el valor adecuado a ingresar.
->   
-> Finalmente, podemos salir del programa ingresando 4.
+ Al concluir de ingresar los datos solicitados para encriptar una locación, el programa devolverá las llaves públicas, llaves privadas
+ y el mensaje original junto al mensaje encriptado.
+ 
+ Haciendo uso de las llaves creadas y el mensaje encriptado, podemos usar la segunda opción del menú para hacer el proceso inverso, donde
+ nos pedirá las llaves privadas y el mensaje secreto. En algunos casos el mensaje es muy grande, por lo cual será expresado en notación 
+ científica (si no es el caso, el siguiente detalle no es importante).
+ 
+   + Si el mensaje encriptado está en notación científica, ingresaremos primero el valor numérico del mensaje sin el exponencial.
+   + A continuación, el programa nos dará la opción de ingresar el exponencial. Si no aplica, 0 es el valor adecuado a ingresar.
+   
+ Finalmente, podemos salir del programa ingresando 4.
 
 
 *   El archivo cuenta con varios métodos, que aplican por ejemplo la criba 
