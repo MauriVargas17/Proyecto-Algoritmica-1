@@ -13,22 +13,22 @@ se pueda comunicar un mensaje secreto entre emisores y receptores, aplicando el 
 
 ###### Una vez abierto, pasamos a ver los pasos de ejecución #######
 
-> ## Ejecución
-> 
-> El archivo lanzará un menú con 4 opciones:
-> 1.   Encriptar una locación
-> 2.   Desencriptar una locación
-> 3.   Mostrar la lista de locaciones
-> 4.   Terminar el programa
-> 
-> Para selecionar una opción solo se debe ingresar el número correspondiente en la consola.
-> Escoger la primera opción nos pedirá ingresar una serie de valores, como ser:
-> 
->     "Ingrese a continuación dos números a elección no mayores a 2^32"
-> A lo que se debe responder ingresando valores enteros; también nos pedirá el nombre del país que queremos encriptar. 
-> Para saber los países disponibles, podemos ingresar a la opción número 3 y desplegar el arreglo de locaciones:
-> 
->       Argentina Bolivia Chile Dinamarca Ecuador Francia Guyana Holanda Islandia Jerusalem Kyoto Libano...
+ ## Ejecución
+ 
+ El archivo lanzará un menú con 4 opciones:
+ 1.   Encriptar una locación
+ 2.   Desencriptar una locación
+ 3.   Mostrar la lista de locaciones
+ 4.   Terminar el programa
+ 
+ Para selecionar una opción solo se debe ingresar el número correspondiente en la consola.
+ Escoger la primera opción nos pedirá ingresar una serie de valores, como ser:
+ 
+     "Ingrese a continuación dos números a elección no mayores a 2^32"
+ A lo que se debe responder ingresando valores enteros; también nos pedirá el nombre del país que queremos encriptar. 
+ Para saber los países disponibles, podemos ingresar a la opción número 3 y desplegar el arreglo de locaciones:
+ 
+       Argentina Bolivia Chile Dinamarca Ecuador Francia Guyana Holanda Islandia Jerusalem Kyoto Libano...
 > Al concluir de ingresar los datos solicitados para encriptar una locación, el programa devolverá las llaves públicas, llaves privadas
 > y el mensaje original junto al mensaje encriptado.
 > 
