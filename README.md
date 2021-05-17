@@ -1,4 +1,4 @@
-# Proyecto-Algoritmica-1
+# Proyecto Algorītmica 1
 ## Archivo EncriptadorDeLocacion.cpp
 
 El programa consiste en poder encriptar una locación entre las disponibles, de manera que haciendo uso de llaves públicas y privadas
